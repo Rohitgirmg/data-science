@@ -1,3 +1,5 @@
+#Yelp-User-Rating-Prediction-using-NLP-and-Naive-Bayes-algorithm-and-Restaurant-Recommender
+
 # OVERVIEW:
 
 • Predicted user ratings by implementing NLP on yelp user reviews and recommended food related restaurants to the user. 
